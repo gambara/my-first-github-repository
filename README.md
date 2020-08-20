@@ -1,3 +1,3 @@
 # my-first-github-repository
-Here's my first github repository
-readme.md file was edited.THIS FILE WAS MODIFIED LOCALLY.
+Here's my first github repository.
+this line was modified manually during conflict resolution.
